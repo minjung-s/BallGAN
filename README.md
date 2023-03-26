@@ -12,4 +12,4 @@ As 3D content creation becomes more popular, the ability to generate foreground 
 Existing methods have been developed regarding overall image quality, but they can not generate foreground objects only and often show degraded 3D geometry. 
 In this work, we propose to represent the background as a spherical surface for multiple reasons inspired by computer graphics. Our method naturally provides foreground-only 3D synthesis facilitating easier 3D content creation. Furthermore, it improves the foreground geometry of 3D-aware GANs and the training stability on datasets with complex backgrounds.*
 
-Code will come soon!# BallGAN
+Code will come soon!
