@@ -5,8 +5,6 @@ training-runs/
 dataset/
 results/
 images/
-docs/
-dataset_preprocessing/
 .DS_Store
 .ipynb_checkpoints
 data
